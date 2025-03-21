@@ -1,0 +1,14 @@
+E:\1ano\JEFERSON\AMST5_Task08_POO\obj\Debug\net8.0\AMST5_Task08_POO.GeneratedMSBuildEditorConfig.editorconfig
+E:\1ano\JEFERSON\AMST5_Task08_POO\obj\Debug\net8.0\AMST5_Task08_POO.AssemblyInfoInputs.cache
+E:\1ano\JEFERSON\AMST5_Task08_POO\obj\Debug\net8.0\AMST5_Task08_POO.AssemblyInfo.cs
+E:\1ano\JEFERSON\AMST5_Task08_POO\obj\Debug\net8.0\AMST5_Task08_POO.csproj.CoreCompileInputs.cache
+E:\1ano\JEFERSON\AMST5_Task08_POO\bin\Debug\net8.0\AMST5_Task08_POO.exe
+E:\1ano\JEFERSON\AMST5_Task08_POO\bin\Debug\net8.0\AMST5_Task08_POO.deps.json
+E:\1ano\JEFERSON\AMST5_Task08_POO\bin\Debug\net8.0\AMST5_Task08_POO.runtimeconfig.json
+E:\1ano\JEFERSON\AMST5_Task08_POO\bin\Debug\net8.0\AMST5_Task08_POO.dll
+E:\1ano\JEFERSON\AMST5_Task08_POO\bin\Debug\net8.0\AMST5_Task08_POO.pdb
+E:\1ano\JEFERSON\AMST5_Task08_POO\obj\Debug\net8.0\AMST5_Task08_POO.dll
+E:\1ano\JEFERSON\AMST5_Task08_POO\obj\Debug\net8.0\refint\AMST5_Task08_POO.dll
+E:\1ano\JEFERSON\AMST5_Task08_POO\obj\Debug\net8.0\AMST5_Task08_POO.pdb
+E:\1ano\JEFERSON\AMST5_Task08_POO\obj\Debug\net8.0\AMST5_Task08_POO.genruntimeconfig.cache
+E:\1ano\JEFERSON\AMST5_Task08_POO\obj\Debug\net8.0\ref\AMST5_Task08_POO.dll
